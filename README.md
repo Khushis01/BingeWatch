@@ -74,7 +74,40 @@ Create an account in https://www.themoviedb.org/, click on the `API` link from t
   
 <a id="usage"></a>
 ## 📖 Application flow
+  1. Landing Page
+   - Main page for the website with gif background to make it more pleasing
+  <img width="1440" alt="MainPage" src="https://user-images.githubusercontent.com/83874474/170862473-64a6dfc2-799c-4683-b9e4-cd89310fb402.png">
   
+  - Loading Page 
+  <img width="1440" alt="Loading" src="https://user-images.githubusercontent.com/83874474/170862954-351cc935-c556-48a3-b4af-81c071578efb.png">
+
+ 2. Searching for a movie
+  - Autocomplete feature 
+  <img width="1440" alt="Autocomplete" src="https://user-images.githubusercontent.com/83874474/170862637-1f46c7a0-0977-4b15-8d26-995588ad2b70.png">
+ 
+  - Searched movie along with it's information 
+  <img width="1440" alt="MovieDetails" src="https://user-images.githubusercontent.com/83874474/170862670-1982a6d8-b908-463f-bd38-9e58ba5ac96f.png">
+
+  - Cast of the movie
+  - After searching for a particular movie the cast of the movie is also displayed in company with their real and reel names
+  <img width="1440" alt="Cast" src="https://user-images.githubusercontent.com/83874474/170862702-8b6f49fb-5cf5-413b-ba17-b168af1a3515.png">
+
+  - The profile of actors can also be accessed by clicking on the images.
+  <img width="1440" alt="ActorDetails" src="https://user-images.githubusercontent.com/83874474/170862815-2c35a324-66d1-438f-b2e8-4cd9eff71987.png">
+
+  - Recommended movies
+  <img width="1440" alt="RecommendedMovies" src="https://user-images.githubusercontent.com/83874474/170862830-e3a6e7af-615c-4523-9df7-7b207c453b5d.png">
+
+  - Reviews of the movie
+  <img width="1440" alt="Reviews" src="https://user-images.githubusercontent.com/83874474/170862838-7a537599-eeaf-4bb0-9b9d-470fdae357e7.png">
+
+ 3. Recommending movies based on genre and year prefered 
+  - The choice of year is optional as compared to genre
+  <img width="1440" alt="GenreandYear" src="https://user-images.githubusercontent.com/83874474/170862866-1c53ad40-db2f-42d0-b121-1839d1236e1e.png">
+
+  - It recommends 10 movies based on your choice.
+  <img width="1440" alt="GYbased" src="https://user-images.githubusercontent.com/83874474/170862934-544d4336-eda1-43ec-967e-0b66819a62be.png">
+
   
 <a id="hosting"></a>
 ## ✅ Hosting
