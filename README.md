@@ -47,8 +47,9 @@ image of ppt
   
 ### KNN machine learning algorithm
 The k-nearest neighbors (KNN) algorithm is a simple, easy-to-implement supervised machine learning algorithm that can be used to solve both classification and regression problems. It belongs to the supervised learning domain and finds intense application in pattern recognition, data mining and intrusion detection. It relies on labeled input data to learn a function that produces an appropriate output when given new unlabeled data. It is also called a ‘lazy learner algorithm’ because it does not learn from the training set immediately instead it stores the dataset and at the time of classification, it performs an action on the dataset. Recipes in Python to use KNN as classifier as well as regressor. The accuracy of k-NN is greater than other machine learning algorithms.
-'Time Complexity': O(N * logN)
-'Auxiliary Space': O(1) 
+  `Time Complexity` : O(N * logN)
+  `Auxiliary Space` : O(1)
+
   
  ### Similarity Score : 
  How does it decide which item is most similar to the item user likes? Here come the similarity scores.
@@ -108,3 +109,7 @@ Create an account in https://www.themoviedb.org/, click on the `API` link from t
 4. [List of movies in 2019](https://en.wikipedia.org/wiki/List_of_American_films_of_2019)
 5. [List of movies in 2020](https://en.wikipedia.org/wiki/List_of_American_films_of_2020)
 - [Heroku Documentation](https://devcenter.heroku.com/categories/reference)
+- [Bootstrap](https://getbootstrap.com)
+- [JS Tutorials](https://www.w3schools.com/js/)
+- [HTML](https://www.html.am)
+- [Python](https://docs.python.org/3/)
