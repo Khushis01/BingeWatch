@@ -37,7 +37,7 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 
 <a id="tech-stack"></a>
 ## 💻 Tech Stack Used
-<img width="1440" alt="Screen Shot 2022-05-29 at 3 56 21 PM" src="https://user-images.githubusercontent.com/83874474/170863407-f95945ef-16ab-4815-b52c-dc0bcd662373.png">
+<img width="1400" alt="Screen Shot 2022-05-29 at 3 56 21 PM" src="https://user-images.githubusercontent.com/83874474/170863407-f95945ef-16ab-4815-b52c-dc0bcd662373.png">
 
 
 ### Tools and Languages: 
