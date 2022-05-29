@@ -37,7 +37,9 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 
 <a id="tech-stack"></a>
 ## 💻 Tech Stack Used
-image of ppt
+<img width="1440" alt="Screen Shot 2022-05-29 at 3 56 21 PM" src="https://user-images.githubusercontent.com/83874474/170863407-f95945ef-16ab-4815-b52c-dc0bcd662373.png">
+
+
 ### Tools and Languages: 
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/><a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  alt="Javascript" width="40" height="40"</a><a href="https://www.python.org" target="_blank"> <img src="https://user-images.githubusercontent.com/83874474/170855800-1f5157c5-0b54-41ef-978f-153665bc8330.svg" alt="bootstrap" width="40" height="40"/> </a><a href="https://jupyter.org" target="_blank"> <img src="https://user-images.githubusercontent.com/83874474/170855823-dc78f536-4a68-419f-8422-28af4c42dc29.svg" alt="bootstrap" width="40" height="40"/> </a>  </p>
 
@@ -78,36 +80,46 @@ Create an account in https://www.themoviedb.org/, click on the `API` link from t
    - Main page for the website with gif background to make it more pleasing
   <img width="1440" alt="MainPage" src="https://user-images.githubusercontent.com/83874474/170862473-64a6dfc2-799c-4683-b9e4-cd89310fb402.png">
   
+  
   - Loading Page 
   <img width="1440" alt="Loading" src="https://user-images.githubusercontent.com/83874474/170862954-351cc935-c556-48a3-b4af-81c071578efb.png">
 
+  
  2. Searching for a movie
   - Autocomplete feature 
   <img width="1440" alt="Autocomplete" src="https://user-images.githubusercontent.com/83874474/170862637-1f46c7a0-0977-4b15-8d26-995588ad2b70.png">
  
+  
   - Searched movie along with it's information 
   <img width="1440" alt="MovieDetails" src="https://user-images.githubusercontent.com/83874474/170862670-1982a6d8-b908-463f-bd38-9e58ba5ac96f.png">
 
+  
   - Cast of the movie
   - After searching for a particular movie the cast of the movie is also displayed in company with their real and reel names
   <img width="1440" alt="Cast" src="https://user-images.githubusercontent.com/83874474/170862702-8b6f49fb-5cf5-413b-ba17-b168af1a3515.png">
 
+  
   - The profile of actors can also be accessed by clicking on the images.
   <img width="1440" alt="ActorDetails" src="https://user-images.githubusercontent.com/83874474/170862815-2c35a324-66d1-438f-b2e8-4cd9eff71987.png">
 
+  
   - Recommended movies
   <img width="1440" alt="RecommendedMovies" src="https://user-images.githubusercontent.com/83874474/170862830-e3a6e7af-615c-4523-9df7-7b207c453b5d.png">
 
+  
   - Reviews of the movie
   <img width="1440" alt="Reviews" src="https://user-images.githubusercontent.com/83874474/170862838-7a537599-eeaf-4bb0-9b9d-470fdae357e7.png">
 
+  
  3. Recommending movies based on genre and year prefered 
   - The choice of year is optional as compared to genre
   <img width="1440" alt="GenreandYear" src="https://user-images.githubusercontent.com/83874474/170862866-1c53ad40-db2f-42d0-b121-1839d1236e1e.png">
 
+  
   - It recommends 10 movies based on your choice.
   <img width="1440" alt="GYbased" src="https://user-images.githubusercontent.com/83874474/170862934-544d4336-eda1-43ec-967e-0b66819a62be.png">
 
+  
   
 <a id="hosting"></a>
 ## ✅ Hosting
