@@ -64,8 +64,8 @@ It is a numerical value ranges between zero to one which helps to determine how 
 Create an account in https://www.themoviedb.org/, click on the `API` link from the left hand sidebar in your account settings and fill all the details to apply for API key. If you are asked for the website URL, just give "NA" if you don't have one. You will see the API key in your `API` sidebar once your request is approved.
   
 ### How to run the project?
-1. Clone this repository to your local machine. `git clone https://github.com/Khushis01/Binge-Watch` 
-2. Install all the libraries mentioned in the [requirements.txt](https://github.com/Khushis01/Binge-Watch/blob/main/requirements.txt) file with the command `pip install -r requirements.txt`
+1. Clone this repository to your local machine. `git clone https://github.com/Khushis01/BingeWatch` 
+2. Install all the libraries mentioned in the [requirements.txt](https://github.com/Khushis01/BingeWatch/blob/main/requirements.txt) file with the command `pip install -r requirements.txt`
 3. Get your API key from https://www.themoviedb.org/. (Refer the above section on how to get the API key)
 3. Replace YOUR_API_KEY in **both** the places (line no. 15 and 29) of `static/recommend.js` file and hit save.
 4. Open your terminal/command prompt from your project directory and run the file `main.py` by executing the command `python main.py`.
