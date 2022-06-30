@@ -1,5 +1,4 @@
 # Binge Watch - Movie Recommendation Website
-## Submission for Microsoft Engage 2022 🌟
 
 This website provides all the details of the requested movie such as overview, genre, release date, rating, runtime, top cast, reviews, recommended movies, etc. It is created using Collaborative Filtering (Website) and Content based Filtering (Jupyter Notebook).
 
@@ -123,7 +122,7 @@ Create an account in https://www.themoviedb.org/, click on the `API` link from t
   
 <a id="hosting"></a>
 ## ✅ Hosting
- Website is hosted at https://alogorithms-microsoftengage.herokuapp.com/
+ Website is hosted at https://bingewatchwebsite.herokuapp.com/
  To host the server on Heroku :
 
 1. Sign up/Log in to Heroku.
