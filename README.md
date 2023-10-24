@@ -15,7 +15,7 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 * [Future Scope](#scope)
 
 
-[<img src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png" width="50%">](https://drive.google.com/file/d/1ZN3Zya1prFOm22mAKs3tjUiyTWrqT0HR/view?usp=sharing")
+[<img src="https://raw.githubusercontent.com/github/explore/d744245de144b89f3e3462949e08bfc91eda7fcf/topics/youtube/youtube.png" width="10%">](https://drive.google.com/file/d/1ZN3Zya1prFOm22mAKs3tjUiyTWrqT0HR/view?usp=sharing")
 <a id="features"></a>
 ## 🎇🚀 Features
 - Simple and actionable UI
