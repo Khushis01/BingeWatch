@@ -57,7 +57,7 @@ The k-nearest neighbors (KNN) algorithm is a simple, easy-to-implement supervise
    
 It is a numerical value ranges between zero to one which helps to determine how much two items are similar to each            other on a scale of zero to one. This similarity score is obtained measuring the similarity between the text details of both of the items. So, similarity score is the measure of similarity between given text details of two items. This can be done by cosine-similarity.
   
-  
+<!---
 <a id="#set-up"></a>
 ## 📦 Setup  
 ### How to get the API key?
@@ -71,7 +71,7 @@ Create an account in https://www.themoviedb.org/, click on the `API` link from t
 4. Open your terminal/command prompt from your project directory and run the file `main.py` by executing the command `python main.py`.
 5. Click on the address link from the terminal and open in your browser.
 6. Hurray! That's it.
-
+-->
   
 <a id="usage"></a>
 ## 📖 Application flow
@@ -119,7 +119,7 @@ Create an account in https://www.themoviedb.org/, click on the `API` link from t
   <img width="1440" alt="GYbased" src="https://user-images.githubusercontent.com/83874474/170862934-544d4336-eda1-43ec-967e-0b66819a62be.png">
 
   
-  
+  <!---
 <a id="hosting"></a>
 ## ✅ Hosting
  Website is hosted at https://bingewatchwebsite.herokuapp.com/
@@ -132,7 +132,7 @@ Create an account in https://www.themoviedb.org/, click on the `API` link from t
 5. Commit your code to the repo if not already done.(Make sure a Procfile of the server's entry point is present)
 6. Push changes to the Heroku remote repository.
 7. Server will be successfully deployed to Heroku.
-  
+  -->
  
 <a id="scope"></a>
 ## 🚧 Future Scope
@@ -143,7 +143,7 @@ Create an account in https://www.themoviedb.org/, click on the `API` link from t
   5. Android version 
   6. Level up UI/UX design
  
-  
+  <!---
 <a id="resources"></a>
 ## 📚 Resources
   ### Data Set Used 
@@ -157,3 +157,4 @@ Create an account in https://www.themoviedb.org/, click on the `API` link from t
 - [JS Tutorials](https://www.w3schools.com/js/)
 - [HTML](https://www.html.am)
 - [Python](https://docs.python.org/3/)
+-->
