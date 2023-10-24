@@ -11,15 +11,11 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 * [Features](#features)
 * [Tech Stack Used](#tech-stack)
 * [Algorithm followed for the build](#algo)
-* [Setup](#set-up)
 * [Application flow](#usage)
-* [Hosting](#hosting)
-* [Challenges faced and learnings](#challenges)
 * [Future Scope](#scope)
-* [Resources](#resources)
-* [Feature Requests](#feature-request)
 
 
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://drive.google.com/file/d/1ZN3Zya1prFOm22mAKs3tjUiyTWrqT0HR/view?usp=sharing")
 <a id="features"></a>
 ## 🎇🚀 Features
 - Simple and actionable UI
@@ -33,8 +29,9 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 - Reviews are provided for the movie
 - [Add more features](#feature-request)...
 
-<!---
+
 <a id="tech-stack"></a>
+<!---
 ## 💻 Tech Stack Used
 <img width="1400" alt="Screen Shot 2022-05-29 at 3 56 21 PM" src="https://user-images.githubusercontent.com/83874474/170863407-f95945ef-16ab-4815-b52c-dc0bcd662373.png">
 -->
